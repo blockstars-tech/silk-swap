@@ -1,0 +1,43 @@
+{
+    "name": "Bahamut defaults",
+    "timestamp": "2024-02-26T23:41:27.220Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/22615.png",
+    "keywords": [
+        "bahamut",
+        "swap",
+        "silk",
+        "default"
+    ],
+    "tokens": [
+        {
+            "chainId": 5165,
+            "address": "0x780fb5aca83f2e3f57ee18cc3094988ef49d8c3d",
+            "name": "Liquid staked Fasttoken",
+            "symbol": "stFTN",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/22615.png"
+        },
+        {
+            "chainId": 5165,
+            "address": "0xdef886c55a79830c47108eeb9c37e78a49684e41",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+        },
+        {
+            "chainId": 5165,
+            "address": "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        }
+    ]
+}
