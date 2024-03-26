@@ -38,6 +38,14 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        },
+        {
+            "chainId": 5165,
+            "address": "0x6c911A75A203Fb9408Df866e8668FDdE072772bA",
+            "name": "Lolik DAO Token",
+            "symbol": "LOL",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
         }
     ]
 }
