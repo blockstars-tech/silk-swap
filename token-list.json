@@ -46,6 +46,14 @@
             "symbol": "LOL",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/33438/standard/stftn.png?1701857025"
+        },
+        {
+            "chainId": 5165,
+            "address": "0x8e672c0ECFE6a13AeaE9e5Ff88eCC859b98a72C2",
+            "name": "TestToken1",
+            "symbol": "TT1",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
         }
     ]
 }
