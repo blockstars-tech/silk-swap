@@ -46,6 +46,13 @@
             "symbol": "LOL",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/33438/standard/stftn.png?1701857025"
+        },
+        {
+            "chainId": 5165,
+            "address": "0xda879470d70845Da9efbD4884C8149a6Df4e50A1",
+            "name": "Dzook",
+            "symbol": "Dzook",
+            "decimals": 18
         }
     ]
 }
