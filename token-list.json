@@ -59,7 +59,8 @@
             "address": "0xf93D24c03344B5e697ad83D59cAa1c5817973365",
             "name": "VivaFTN",
             "symbol": "VivaFTN",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "/tokenIcons/Dzook.png"
         }
     ]
 }
