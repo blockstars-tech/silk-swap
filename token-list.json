@@ -52,15 +52,15 @@
             "address": "0xda879470d70845Da9efbD4884C8149a6Df4e50A1",
             "name": "Dzook",
             "symbol": "Dzook",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://silkswap.me/tokenIcons/Dzook.png"
         },
         {
             "chainId": 5165,
             "address": "0xf93D24c03344B5e697ad83D59cAa1c5817973365",
             "name": "VivaFTN",
             "symbol": "VivaFTN",
-            "decimals": 18,
-            "logoURI": "/tokenIcons/Dzook.png"
+            "decimals": 18
         }
     ]
 }
