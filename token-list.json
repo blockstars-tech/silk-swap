@@ -77,6 +77,6 @@
             "symbol": "AMDC",
             "decimals": 6,
             "logoURI": "https://silkswap.me/tokenIcons/AMDC.png"
-        },
+        }
     ]
 }
