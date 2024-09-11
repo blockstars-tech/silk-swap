@@ -69,14 +69,6 @@
             "symbol": "AMDT",
             "decimals": 6,
             "logoURI": "https://silkswap.me/tokenIcons/AMDT.png"
-        },
-        {
-            "chainId": 5165,
-            "address": "0x2F5916b89c61c555414BbbC49aC500B0607886d1",
-            "name": "AMDC",
-            "symbol": "AMDC",
-            "decimals": 6,
-            "logoURI": "https://silkswap.me/tokenIcons/AMDC.png"
         }
     ]
 }
